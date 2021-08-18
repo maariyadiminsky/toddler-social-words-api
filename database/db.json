@@ -1,0 +1,26 @@
+{
+    "first-ten-words": [
+        {
+            "id": 1,
+            "word": "hi",
+            "images": [],
+            "audio": []
+        }
+    ],
+    "second-ten-words": [
+        {
+            "id": 1,
+            "word": "hug",
+            "images": [],
+            "audio": []
+        }
+    ],
+    "third-ten-words": [
+        {
+            "id": 1,
+            "word": "careful",
+            "images": [],
+            "audio": []
+        }
+    ]
+}

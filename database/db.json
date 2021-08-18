@@ -2,25 +2,187 @@
     "first-ten-words": [
         {
             "id": 1,
+            "word": "bye",
+            "images": [],
+            "audio": ["1XP1r7F9J94d29jJ0A_AqmV1hyOHVyRkd"]
+        },
+        {
+            "id": 2,
+            "word": "eat",
+            "images": [],
+            "audio": ["1Z7dlk9qGZ8JzXXPlnzdKVJbyNekiCzti"]
+        },
+        {
+            "id": 3,
             "word": "hi",
             "images": [],
-            "audio": []
+            "audio": ["1HxcVNjd0Nq0p3_x4TigNSTUACKi2XLHO"]
+        },
+        {
+            "id": 4,
+            "word": "no",
+            "images": [],
+            "audio": ["1Y7myGqW5UdFfRIQNChm-lH2L11MC3C-3"]
+        },
+        {
+            "id": 5,
+            "word": "pee",
+            "images": [],
+            "audio": ["1gIDoPBTZdZUsQCcK6RsyTsZm197gzc-f"]
+        },
+        {
+            "id": 6,
+            "word": "poo",
+            "images": [],
+            "audio": ["1Pl3YgwhuEb91mKCjWofvytM7F-VyWyI0"]
+        },
+        {
+            "id": 7,
+            "word": "sleep",
+            "images": [],
+            "audio": ["1x0Q1xEwNlnYSW_rA2bfkspvx5wSpwNRd"]
+        },
+        {
+            "id": 8,
+            "word": "sorry",
+            "images": [],
+            "audio": ["1fwZgpKlahack4jkuUlrLOu9OE7qClUuG"]
+        },
+        {
+            "id": 9,
+            "word": "thank you",
+            "images": [],
+            "audio": ["1RPjcfau4LTO4TjGB7M-rhp-1EnJ41mfU"]
+        },
+        {
+            "id": 10,
+            "word": "yes",
+            "images": [],
+            "audio": ["1TEQjSRoRqLQSN8J-Ovhin096wIxC4YI6"]
         }
     ],
     "second-ten-words": [
         {
             "id": 1,
+            "word": "cry",
+            "images": [],
+            "audio": ["1YD0JJ3PZP4bEih2ZiQcNDwf1zgQdcCvX"]
+        },
+        {
+            "id": 2,
+            "word": "dance",
+            "images": [],
+            "audio": ["1YGFtb_bG0ZLhnS0rrw0laHfUeaxbGw6Y"]
+        },
+        {
+            "id": 3,
             "word": "hug",
             "images": [],
-            "audio": []
+            "audio": ["1mXDpJFdWI1gmsbrlkWJiZZ_HaYJZFI-6"]
+        },
+        {
+            "id": 4,
+            "word": "kiss",
+            "images": [],
+            "audio": ["1qIJJMcLfXbrZasmCFkjp6m4axfGhulSi"]
+        },
+        {
+            "id": 5,
+            "word": "love",
+            "images": [],
+            "audio": ["1miFrY83rRUtP3v4PFzoieDBYws-PQuv7"]
+        },
+        {
+            "id": 6,
+            "word": "play",
+            "images": [],
+            "audio": ["18RJq3kXU2gyxjzM9WlOsHcfUUcCUgFc7"]
+        },
+        {
+            "id": 7,
+            "word": "sit",
+            "images": [],
+            "audio": ["18OuUyrzL7v2OMfrhVpRXfbKgsIg_5sU_"]
+        },
+        {
+            "id": 8,
+            "word": "smile",
+            "images": [],
+            "audio": ["1v4SgrYz_TPSA8_JDrfhzLrx5iVIcK6NB"]
+        },
+        {
+            "id": 9,
+            "word": "stand",
+            "images": [],
+            "audio": ["1cm12vwaeu_mAfRQL0saIF-3nX36DzvJr"]
+        },
+        {
+            "id": 10,
+            "word": "yes",
+            "images": [],
+            "audio": ["1qdZXL237XYxBxs1_2yF2qHHRhKpzCKxC"]
         }
     ],
     "third-ten-words": [
         {
             "id": 1,
+            "word": "bath",
+            "images": [],
+            "audio": ["1zkM4QZ3QUlmM5WX9-2vHlKNsWJchW_gG"]
+        },
+        {
+            "id": 2,
             "word": "careful",
             "images": [],
-            "audio": []
+            "audio": ["1J9dCjdanTExcjlzMbgMOeU_1f1jCTnsX"]
+        },
+        {
+            "id": 3,
+            "word": "day",
+            "images": [],
+            "audio": ["1Tkb32brMhn1F1vsVe3JYd3Oylt7BLiOC"]
+        },
+        {
+            "id": 4,
+            "word": "drink",
+            "images": [],
+            "audio": ["1jTvgM2a1ejzU3g7Cj6JEm6FwIsBJhDj5"]
+        },
+        {
+            "id": 5,
+            "word": "moon",
+            "images": [],
+            "audio": ["1EduknqDcwQjCITtgo04wysyz_HysPUw_"]
+        },
+        {
+            "id": 6,
+            "word": "night",
+            "images": [],
+            "audio": ["1_YTcwliWgWwm6G_i9K7Y4qhoAiA8GzB4"]
+        },
+        {
+            "id": 7,
+            "word": "run",
+            "images": [],
+            "audio": ["1_YTcwliWgWwm6G_i9K7Y4qhoAiA8GzB4"]
+        },
+        {
+            "id": 8,
+            "word": "see",
+            "images": [],
+            "audio": ["1f7PerDxD4JVyrNDyGfx2SiwkKBNJk5yk"]
+        },
+        {
+            "id": 9,
+            "word": "stop",
+            "images": [],
+            "audio": ["1f7PerDxD4JVyrNDyGfx2SiwkKBNJk5yk"]
+        },
+        {
+            "id": 10,
+            "word": "walk",
+            "images": [],
+            "audio": ["1h4kE5tsZpoftdRt_9piVCEowBJB-gEcQ"]
         }
     ]
 }

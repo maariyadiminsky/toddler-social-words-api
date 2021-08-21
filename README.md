@@ -4,7 +4,7 @@ A minimal API I created to get access to specific words as well as the pictures 
 
 This was created for my toddler-9000 client app. I wanted to make sure the images and audio coming back were exactly the ones I wanted—at least for the social words game.
 
-## See it LIVE [here](https://toddler-social-words-api.herokuapp.com/).
+## See it Live [here](https://toddler-social-words-api.herokuapp.com/).
 ### Notes
 
 Data is stored in Google Drive. 

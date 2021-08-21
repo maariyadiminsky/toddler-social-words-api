@@ -1,520 +1,900 @@
 {
-    "first-ten-words": [
-        {
+    "first-ten-words": {
+        "bye": {
             "id": 1,
             "word": "bye",
             "images": [
                 {
                     "id": "17AFm-kXgfRKzqwJkAPLCQUkEjaCWk3tH",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }, 
                 {
                     "id": "1H7zd4RxzaFxE5z5McKIMGzZd9rZxXRAe",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1XP1r7F9J94d29jJ0A_AqmV1hyOHVyRkd"]
         },
-        {
+        "eat": {
             "id": 2,
             "word": "eat",
             "images": [
                 {
                     "id": "1BvPhAH0k5ho2LpwKt63HpEfVdJBX1Va1",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1ZhRMKMYOypxtKBlmJnCOI5pujiuKhgFc",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1MIcOlK9WoH9YcniYuwkKZuxXCQpOTd7g",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1Z7dlk9qGZ8JzXXPlnzdKVJbyNekiCzti"]
         },
-        {
+        "hi": {
             "id": 3,
             "word": "hi",
             "images": [
                 {
                     "id": "17dJTfk0xVRtBLKVDI9KQqZiaPy-gl7cw",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1x4RcojUgMlUek6QpBEPWEi-eE7naT1nk",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1rtJ-g8-XA6fYffcjqUYiGVzjZCUUI4fC",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1HxcVNjd0Nq0p3_x4TigNSTUACKi2XLHO"]
         },
-        {
+        "no": {
             "id": 4,
             "word": "no",
             "images": [
                 {
                     "id": "1s0BiNRsl1rwk2FMkIElHI-DRPvAfhOvl",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1r53r2D5Yf06G80gFeDePtLAIUvkFYg6r", 
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1IcjjyPKgOSMDfTy7ZnCXKnl1M1FFKsgs",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1XycB8VQEcpI4T1H1fuc4WiBUYeg89HtN",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "13dyUJ4cFqdXvqTOrrAaL2T9cWxe81t7z",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1Y7myGqW5UdFfRIQNChm-lH2L11MC3C-3"]
         },
-        {
+        "pee": {
             "id": 5,
             "word": "pee",
             "images": [
                 {
                     "id": "1V786imnsqYOVBbCCaUhO445-nIe-4Nrz",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "102ey2WybMuXPchDMCkgB9AgH7ZP-dZvD",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1gIDoPBTZdZUsQCcK6RsyTsZm197gzc-f"]
         },
-        {
+        "poo": {
             "id": 6,
             "word": "poo",
             "images": [
                 {
                     "id": "1M5ESFdAY1R8orEYMfGgooEDoNWvZlSLn",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1WTvtP6x6qxv3tku6VzFseH6i1QwhW4b3",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1Pl3YgwhuEb91mKCjWofvytM7F-VyWyI0"]
         },
-        {
+        "sleep": {
             "id": 7,
             "word": "sleep",
             "images": [
                 {
                     "id": "1gjKuwriWeJpymjOA4206z_1EkW7KXsDz",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1KzHbqxwRSeNoPAi8idDD9WYWlz0j4899",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1x0Q1xEwNlnYSW_rA2bfkspvx5wSpwNRd"]
         },
-        {
+        "sorry": {
             "id": 8,
             "word": "sorry",
             "images": [
                 {
                     "id": "1Yi5X7nSM1emndXRfzlvb6BIEcpAxhasg",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "10tEW1EvHUsjAaYUpQXfIdL4OuJIZFseq",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1OSb7HY_ARkD0hFPWZnCWhBAxV7eO_pTz",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1fwZgpKlahack4jkuUlrLOu9OE7qClUuG"]
         },
-        {
+        "thank you": {
             "id": 9,
             "word": "thank you",
             "images": [
                 {
                     "id": "15Pi4d-83Q5SmrVGrrDVsuvtjrbIENKEn", 
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1tu3V0_xniNwXtPEqP7QizOxr9-lUc1Vc",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1RPjcfau4LTO4TjGB7M-rhp-1EnJ41mfU"]
         },
-        {
+        "yes": {
             "id": 10,
             "word": "yes",
             "images": [
                 {
                     "id": "1PprgivGmvh38lAMeBwFUJD6UDR8DKlHB",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1X0231RSodAXsogIGYBkgRu_DFDvcND_X", 
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1TEQjSRoRqLQSN8J-Ovhin096wIxC4YI6"]
         }
-    ],
-    "second-ten-words": [
-        {
+    },
+    "second-ten-words": {
+        "cry": {
             "id": 1,
             "word": "cry",
             "images": [
                 {
                     "id": "1PEF_vCbfxxR1FaiDDiz2mGJE21mUfRtV",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1EyT8dxUcI3ShkAewJfoIqxKe6TL-HHGv", 
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1A3Ctques3Ffsn9VGwi3fCJTqcx3V4kBO",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1vUXniC35EsmGjkpEOeJqeb4p5qkTuul5",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1YD0JJ3PZP4bEih2ZiQcNDwf1zgQdcCvX"]
         },
-        {
+        "dance": {
             "id": 2,
             "word": "dance",
             "images": [
                 {
                     "id": "1VYyBpa2QzFYM4w-IJ9rjDJWS1Tv9Isf_",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1dspdQDeY9TjodNilKZr00xT0bNIeRilu",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1YGFtb_bG0ZLhnS0rrw0laHfUeaxbGw6Y"]
         },
-        {
+        "hug": {
             "id": 3,
             "word": "hug",
             "images": [
                 {
                     "id": "1MlqAJH9BQIwCCjUfe-6ZnS5UFWvuf_to",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1PN_wUkyKrq6WOYSTmB5L-bMtQEl9nEOR",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1oOoS1-pZXKMPJySa7wFd0ghTb40FJJ9g",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1aCv0lLWycJyT5Uyz_VnpBNBdGtmjd2js",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1mXDpJFdWI1gmsbrlkWJiZZ_HaYJZFI-6"]
         },
-        {
+        "kiss": {
             "id": 4,
             "word": "kiss",
             "images": [
                 {
                     "id": "1PxhERv9nKKNiBoB6AwmAQ6YHEs40dpjk",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1U12LL43fMQSL3AAmnDb8P7c1nehJtrTU",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1qIJJMcLfXbrZasmCFkjp6m4axfGhulSi"]
         },
-        {
+        "love": {
             "id": 5,
             "word": "love",
             "images": [
                 {
                     "id": "15aF2H9wcDQRJ63rnCzljI18ddCtpF88d",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1LFy12AJq-lbwQeVrUTQkB8UamZvPe0-v",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1MXbVMan_2BthmItAtrDLD5rIL46luz_T",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1oKjMpgq1p9Dw-ADhmrBYYQcdIOZIxJVb",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }],
             "audio": ["1miFrY83rRUtP3v4PFzoieDBYws-PQuv7"]
         },
-        {
+        "play": {
             "id": 6,
             "word": "play",
             "images": [
                 {
                     "id": "1Or71IK9Dww1nVHGlc7XOVcdCJhejaU1W",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1eJj7XYF9w2JwR-jQLbgElMow9vLSnm8B",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1-IOw-dOibQEJn7uuyq0HUIs2eX2sP8FL",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["18RJq3kXU2gyxjzM9WlOsHcfUUcCUgFc7"]
         },
-        {
+        "sit": {
             "id": 7,
             "word": "sit",
             "images": [
                 {
                     "id": "12R2bEW6_vsTkiJdlnkb3ojGatCrly3SB",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "139RUVryC6BoPmCGOONMduLlpu0nj4h61",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["18OuUyrzL7v2OMfrhVpRXfbKgsIg_5sU_"]
         },
-        {
+        "smile": {
             "id": 8,
             "word": "smile",
             "images": [
                 {
                     "id": "15y1OmmEu7PAk5TpohndMPorsWE0GMo8I",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1ft0HesuKiWGrqTiv_Uerzjx2Ndcu6IYc",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1v4SgrYz_TPSA8_JDrfhzLrx5iVIcK6NB"]
         },
-        {
+        "stand": {
             "id": 9,
             "word": "stand",
             "images": [
                 {
                     "id": "1lnjCYjMMWnIv_mhPQFw86Ny6-JcNNP7w",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1tKdZ48oXLd-t6pZ_B0Fwb3WsrsMRHnhP",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1cm12vwaeu_mAfRQL0saIF-3nX36DzvJr"]
         },
-        {
+        "tickle": {
             "id": 10,
             "word": "tickle",
             "images": [
                 {
                     "id": "1zhpI4wmAa-702pKMzpk-6rH2f0L_J6T-",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1qdZXL237XYxBxs1_2yF2qHHRhKpzCKxC"]
         }
-    ],
-    "third-ten-words": [
-        {
+    },
+    "third-ten-words": {
+        "bath": {
             "id": 1,
             "word": "bath",
             "images": [
                 {
                     "id": "1SKTNcGyIr7LnTQq7dnjiko9hv6oHK7Ix",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1kql51k7N22n1Sjrqss4rF3eALuyF2PYZ",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1zkM4QZ3QUlmM5WX9-2vHlKNsWJchW_gG"]
         },
-        {
+        "careful": {
             "id": 2,
             "word": "careful",
             "images": [
                 {
                     "id": "16Yhxn5am2Z0vW130e8HQW5-k94P0NTdf",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1J9dCjdanTExcjlzMbgMOeU_1f1jCTnsX"]
         },
-        {
+        "day": {
             "id": 3,
             "word": "day",
             "images": [
                 {
                     "id": "19HPz8avejUAQGQOXHtXI4aoGal0tXTTe",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1Rp8E58xVHm9z8fq6_A75A3JrCmJX0OEE",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }],
             "audio": ["1Tkb32brMhn1F1vsVe3JYd3Oylt7BLiOC"]
         },
-        {
+        "drink": {
             "id": 4,
             "word": "drink",
             "images": [
                 {
                     "id": "1m1lTNBQIOqbB2tU2EEqiPMXp5tEUym9L",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1_WAYfPHOAYzmmwW0j_tOH6pW7DGsL-yr",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1Zbp4RUrzX6Yp25qLper6C9M98kvza16F",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1jTvgM2a1ejzU3g7Cj6JEm6FwIsBJhDj5"]
         },
-        {
+        "moon": {
             "id": 5,
             "word": "moon",
             "images": [
                 {
                     "id": "1SEEKN6t4P1KKiVMqwG2WzD47EJ7q-4Ev",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1MXXtJcKu9_NZCqJMv2JfRUnpRsYA_8QZ",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1EduknqDcwQjCITtgo04wysyz_HysPUw_"]
         },
-        {
+        "night": {
             "id": 6,
             "word": "night",
             "images": [
                 {
                     "id": "1GhV93oBy-d_i3hKafEFlA5PMu5jifI2O",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1v9C7BS-lXsb2ybafooEotLen5900Z8h_",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1_YTcwliWgWwm6G_i9K7Y4qhoAiA8GzB4"]
         },
-        {
+        "run": {
             "id": 7,
             "word": "run",
             "images": [
                 {
                     "id": "18_xUEwiiaEkRKnpZzVQBcm9ReiPKh3oU",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1YZvIGqbBOcZ5b-9kjX-H4-akeVUElack",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "13U1Ta8vWM3qBffXKoSA9656vQIYHuH_N",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1_YTcwliWgWwm6G_i9K7Y4qhoAiA8GzB4"]
         },
-        {
+        "see": {
             "id": 8,
             "word": "see",
             "images": [
                 {
                     "id": "1g-mXYDfBykl-UZxjU71YIUAPPmrtAnVx",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "11J40rBIpZFOvj7Db2AlbpmGJTJFaIrZg",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1ussKguCR-9kFaz7_rQa82Ghuhwwny4UV",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1f7PerDxD4JVyrNDyGfx2SiwkKBNJk5yk"]
         },
-        {
+        "stop": {
             "id": 9,
             "word": "stop",
             "images": [
                 {
                     "id": "1p0GAYQNwzWIYY8NDkby_68ohRhqhPH-7",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1TdhjIyjs30jg9eF07xG5KhVX7kmWj_ax",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "15Cz47q7Mz4a3cVt3oosUvF-moC4f03tD",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1f7PerDxD4JVyrNDyGfx2SiwkKBNJk5yk"]
         },
-        {
+        "walk": {
             "id": 10,
             "word": "walk",
             "images": [
                 {
                     "id": "1QR8PmFNh6e7BHmMgM6lBhYlC780i4-qe",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1gms0mupXgyhnPJCV5r9Co8HlclJHSk0h",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 },
                 {
                     "id": "1z68m63yaq2Hm94Td0hkgopYTjr9YFgE6",
-                    "altText": ""
+                    "altText": "",
+                    "credits": {
+                        "name": "",
+                        "profileLink": "",
+                        "imageLink": ""
+                    }
                 }
             ],
             "audio": ["1h4kE5tsZpoftdRt_9piVCEowBJB-gEcQ"]
         }
-    ]
+    }
 }
